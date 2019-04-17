@@ -1,0 +1,16 @@
+D:\Projects\C#\Units\unitsConversion\unitsConversion\bin\Debug\unitsConversion.exe.config
+D:\Projects\C#\Units\unitsConversion\unitsConversion\bin\Debug\unitsConversion.exe
+D:\Projects\C#\Units\unitsConversion\unitsConversion\bin\Debug\unitsConversion.pdb
+D:\Projects\C#\Units\unitsConversion\unitsConversion\obj\Debug\unitsConversion.csprojAssemblyReference.cache
+D:\Projects\C#\Units\unitsConversion\unitsConversion\obj\Debug\MainWindow.g.cs
+D:\Projects\C#\Units\unitsConversion\unitsConversion\obj\Debug\App.g.cs
+D:\Projects\C#\Units\unitsConversion\unitsConversion\obj\Debug\unitsConversion_MarkupCompile.cache
+D:\Projects\C#\Units\unitsConversion\unitsConversion\obj\Debug\unitsConversion_MarkupCompile.lref
+D:\Projects\C#\Units\unitsConversion\unitsConversion\obj\Debug\MainWindow.baml
+D:\Projects\C#\Units\unitsConversion\unitsConversion\obj\Debug\unitsConversion.g.resources
+D:\Projects\C#\Units\unitsConversion\unitsConversion\obj\Debug\unitsConversion.Properties.Resources.resources
+D:\Projects\C#\Units\unitsConversion\unitsConversion\obj\Debug\unitsConversion.csproj.GenerateResource.cache
+D:\Projects\C#\Units\unitsConversion\unitsConversion\obj\Debug\unitsConversion.csproj.CoreCompileInputs.cache
+D:\Projects\C#\Units\unitsConversion\unitsConversion\obj\Debug\unitsConversion.exe
+D:\Projects\C#\Units\unitsConversion\unitsConversion\obj\Debug\unitsConversion.pdb
+D:\Projects\C#\Units\unitsConversion\unitsConversion\obj\Debug\App.baml
